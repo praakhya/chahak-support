@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Chahak</h3>
+  <h1 align="center">Chahak</h3>
   <h5>Support</h5>
 
   <p align="center">
@@ -42,18 +42,8 @@
     <br />
     <br />
     <br />
-    <style>
-      .imp-link {
-        border: 1px solid;
-        padding: 0.5em;
-      }
-      .imp-link:hover {
-        font-weight: bold;
-      }
-    </style>
-    <a class="imp-link" href="https://github.com/praakhya/chahak-support/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
-    ·
-    <a class="imp-link" href="https://github.com/praakhya/chahak-support/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=%5BFEATURE%5D">Request Feature</a>
+    <kbd> <br> <a href="https://github.com/praakhya/chahak-support/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a> <br> </kbd>
+    <kbd> <br> <a href="https://github.com/praakhya/chahak-support/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=%5BFEATURE%5D">Request Feature</a> <br> </kbd>
   </p>
 </div>
 
@@ -65,10 +55,8 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
+      <li><a href="#built-with">Built With</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
@@ -79,7 +67,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -91,28 +79,29 @@ I hope to add more features in the future to make this another flourishing platf
 
 
 
-### Built With
+# Built With
 
 * [![Angular][Angular.io]][Angular-url]
 * [![Spring][Spring.io]][Spring-url]
 * [![Spring][Java]][Java-url]
 * ![Html][HTML]
 * ![Scss][SCSS]
+* [![Mongo][Mongo]][Mongo-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
-<div style="text-align: center">
+# Usage
+<p align="center">
 <img src="./images/usage.png" width="80%">
-</div>
+</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+# Roadmap
 
 - [x] Add authentication
 - [x] Add notes, notepads and article editing
@@ -131,16 +120,16 @@ See the [open issues](https://github.com/praakhya/chahak-support/issues) for a f
 
 
 <!-- LICENSE -->
-## License
+# License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under GPL. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- CONTACT -->
-## Contact
+# Contact
 [![Email][Email]][email-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -173,8 +162,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [Spring-url]: https://spring.io/
 [Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [Java-url]: https://www.java.com/en/
+[Mongo]: https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white
+[Mongo-url]: https://www.mongodb.com/
 [Html]: https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 [Scss]: https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white
 [Email]: https://img.shields.io/badge/Praakhya_Avasthi-EA4335?style=flat&logo=gmail&logoColor=white
-[Email-id]: praakhya@avasthi.com
-[Email-url]: mailto:praakhya@avasthi.com
+[Email-id]: praakhya@chahak.in
+[Email-url]: mailto:praakhya@chahak.in
+[Link]: # 'Link with example title.'
+[Report-bug-url]: https://github.com/praakhya/chahak-support/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D
