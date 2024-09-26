@@ -144,7 +144,7 @@ Distributed under GPL. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/praakhya/chahak-support.svg?style=for-the-badge
-[contributors-url]: https://github.com/praakhya/chahak-support/network/dependencies
+[contributors-url]: https://github.com/praakhya/chahak-support/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/praakhya/chahak-support.svg?style=for-the-badge
 [forks-url]: https://github.com/praakhya/chahak-support/network/members
 [stars-shield]: https://img.shields.io/github/stars/praakhya/chahak-support.svg?style=for-the-badge
